@@ -527,6 +527,7 @@ ol {
 
 .work__gallery {
   margin-right: -10px;
+  margin-bottom: -300px;
 }
 
 .work__item {
@@ -2178,6 +2179,7 @@ ol {
 
   .work__gallery {
     margin-right: 0;
+    margin-bottom: -2000px;
   }
 
   .pagination__option .arrow__pagination.left__arrow {
