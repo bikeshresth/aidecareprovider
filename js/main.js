@@ -1,6 +1,6 @@
 /*  ---------------------------------------------------
-    Template Name: Dreams
-    Description: Dreams wedding template
+    Care Support Name: Dreams
+    Description: Dreams wedding Care Support
     Author: Colorib
     Author URI: https://colorlib.com/
     Version: 1.0
