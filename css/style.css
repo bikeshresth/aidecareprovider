@@ -145,6 +145,7 @@ ol {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: top center;
+  background-color: #f0f0f0;
 }
 
 .spad {
@@ -172,7 +173,7 @@ ol {
   font-family: "Play", sans-serif;
   font-weight: 700;
   padding: 14px 32px 12px;
-  color: #ffffff;
+  color: #4e295e;
   text-transform: uppercase;
   letter-spacing: 2px;
   position: relative;
