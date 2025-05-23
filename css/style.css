@@ -125,7 +125,7 @@ ol {
   margin-bottom: 6px;
 }
 .section-title h2 {
-  color: #ffffff;
+  color: #fefbff;
   font-weight: 700;
   text-transform: uppercase;
   position: relative;
@@ -137,7 +137,7 @@ ol {
   bottom: 0;
   height: 5px;
   width: 70px;
-  background: #4e295e;
+  background: #ffffff;
   content: "";
 }
 
@@ -658,8 +658,8 @@ ol {
   bottom: -2px;
   height: 636px;
   width: 636px;
-  border-left: 1px solid #333333;
-  border-top: 1px solid #333333;
+  border-left: 1px solid #ffffff;
+  border-top: 1px solid #fffefe;
   content: "";
   z-index: -1;
 }
@@ -671,8 +671,8 @@ ol {
 .counter__item.second__item:before {
   left: -316px;
   bottom: -65px;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
+  border-right: 1px solid #fffbfb;
+  border-bottom: 1px solid #fffdfd;
   border-left: none;
   border-top: none;
 }
@@ -684,8 +684,8 @@ ol {
 .counter__item.four__item:before {
   left: -380px;
   bottom: -380px;
-  border-right: 1px solid #333333;
-  border-bottom: 1px solid #333333;
+  border-right: 1px solid #fffbfb;
+  border-bottom: 1px solid #ffffff;
   border-left: none;
   border-top: none;
 }
@@ -1014,7 +1014,7 @@ ol {
 }
 
 .breadcrumb__text h2 {
-  color: #ffffff;
+  color: #4e295e;
   font-size: 50px;
   font-weight: 700;
   margin-bottom: 12px;
@@ -1022,7 +1022,7 @@ ol {
 
 .breadcrumb__links a {
   font-size: 16px;
-  color: #ffffff;
+  color: #4e295e;
   font-weight: 300;
   display: inline-block;
   margin-right: 32px;
@@ -1033,12 +1033,12 @@ ol {
   right: -22px;
   top: -3px;
   content: "/";
-  color: #adadad;
+  color: #4e295e;
   font-size: 20px;
 }
 .breadcrumb__links span {
   font-size: 16px;
-  color: #adadad;
+  color: #4e295e;
   font-weight: 300;
   display: inline-block;
 }
@@ -1047,7 +1047,7 @@ ol {
   About
 -----------------------*/
 .about {
-  background: #151416;
+  background: #ffffff;
   padding-bottom: 150px;
 }
 
@@ -1064,7 +1064,7 @@ ol {
   padding-left: 30px;
 }
 .about__text .services__item .services__item__icon:after {
-  border-color: #281A3E;
+  border-color: #4e295e;
 }
 
 .about__text__desc {
@@ -1189,7 +1189,7 @@ ol {
   top: 0;
   width: 100%;
   height: 100%;
-  border: 2px solid #4e295e;
+  border: 2px solid #f5f5f5;
   content: "";
   -webkit-transition: all, 0.5s;
   -o-transition: all, 0.5s;
