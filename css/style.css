@@ -622,7 +622,7 @@ ol {
   Counter
 -----------------------*/
 .counter {
-  background: #151416;
+  background: #f9f8fb;
   height: 840px;
   padding-top: 380px;
   overflow: hidden;
@@ -633,7 +633,7 @@ ol {
 }
 
 .counter__item {
-  background: #1d1c1f;
+  background: #dedcdf;
   -webkit-transform: rotate(45deg);
   -ms-transform: rotate(45deg);
       transform: rotate(45deg);
@@ -665,6 +665,8 @@ ol {
 }
 .counter__item.second__item {
   margin-top: -185px;
+  background: #dedcdf;
+
 }
 .counter__item.second__item:before {
   left: -316px;
@@ -676,6 +678,8 @@ ol {
 }
 .counter__item.four__item {
   margin-top: -185px;
+  background: #dedcdf;
+
 }
 .counter__item.four__item:before {
   left: -380px;
@@ -688,6 +692,7 @@ ol {
 .counter__item.third__item:before {
   left: -65px;
   bottom: -317px;
+  
 }
 
 .counter__item__text {
@@ -697,13 +702,13 @@ ol {
 }
 .counter__item__text h2 {
   font-size: 60px;
-  color: #ffffff;
+  color: #4e295e;
   font-weight: 700;
   margin-bottom: 6px;
   margin-top: 18px;
 }
 .counter__item__text p {
-  color: #ffffff;
+  color: #4e295e;
   margin-bottom: 0;
 }
 
@@ -1143,7 +1148,7 @@ ol {
   Services
 -----------------------*/
 .services {
-  background: #151416;
+  background: #4e295e;
   padding-bottom: 60px;
   padding-top: 110px;
 }
